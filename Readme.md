@@ -4,6 +4,8 @@
 
 **This project has a [Code of Conduct][].**
 
+# Apna College
+
 ## Table of contents
 
 * [Installation](#Installation)
